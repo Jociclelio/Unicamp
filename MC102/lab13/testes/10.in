@@ -1,0 +1,5 @@
+images/baboon.pgm
+3
+bucket 255 50 43 55
+bucket 255 50 84 55
+save images/10.baboon.pgm

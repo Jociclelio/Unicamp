@@ -1,0 +1,6 @@
+images/sample.pgm
+4
+negative 5 3 1
+negative 5 1 1
+negative 5 3 2
+save images/02.sample.pgm

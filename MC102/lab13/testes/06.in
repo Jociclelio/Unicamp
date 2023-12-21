@@ -1,0 +1,4 @@
+images/board.pgm
+2
+cmask 5 13 2
+save images/06.board.pgm

@@ -1,0 +1,11 @@
+ACTGGTC
+mostrar
+transpor 1 3 5
+reverter 1 5
+mostrar
+remover 0 6
+concatenar ACTGGTC
+mostrar
+transpor_e_reverter 1 3 5
+mostrar
+sair

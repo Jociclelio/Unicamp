@@ -1,0 +1,7 @@
+--2023-06-24 12:20:05--  http://lv_branch=release-1.3/neovim-0.9
+Resolving lv_branch=release-1.3 (lv_branch=release-1.3)... failed: Name or service not known.
+wget: unable to resolve host address ‘lv_branch=release-1.3’
+--2023-06-24 12:20:05--  http://bash/
+Resolving bash (bash)... failed: Name or service not known.
+wget: unable to resolve host address ‘bash’
+/proc/self/fd/10: Scheme missing.

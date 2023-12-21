@@ -1,0 +1,5 @@
+images/dots.pgm
+3
+cmask 5 1 1
+cmask 5 5 3
+save images/07.dots.pgm
